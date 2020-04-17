@@ -1,1 +1,1 @@
- {"hello": "from api platform"} 
+ {"healthcheck": {"status": "ok"}} 
