@@ -1,1 +1,4 @@
- {"health-check": {"status": "ok"}} 
+ {
+  "health-check": {"status": "ok"},
+  "healthcheck": {"status": "ok"}
+ }
