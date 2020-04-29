@@ -2,6 +2,6 @@
   "health-check": {"status": "ok"},
   "healthcheck": {"status": "ok"},
   "results": {
-   "google": [{text: "google.com", link: "http://google.com"}]
+   "google": [{"text": "google.com", "link": "http://google.com"}]
   }
  }
